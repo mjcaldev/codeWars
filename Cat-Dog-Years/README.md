@@ -1,6 +1,6 @@
-# Codewars Kata: [Cat years, Dog years] - [8]
+# Cat years, Dog years - 8 kyu
 
-## [Kata Link]([Kata Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript))
+## <a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript">Kata Link</a>
 
 ## Instructions:
 > _Take a humanYears parameter and show how cat and dog years change with it._
